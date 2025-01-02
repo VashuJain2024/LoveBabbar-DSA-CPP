@@ -54,3 +54,8 @@ Here’s a snapshot of the topics included in the playlist:
    ```bash
    git clone https://github.com/VashuJain2024/LoveBabbar-DSA-CPP.git
    cd LoveBabbar-DSA-CPP
+
+---
+
+## Youtube Thumbnail
+![download](https://github.com/user-attachments/assets/48336ebf-5658-4b3b-b65f-4f26668a85df)
